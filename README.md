@@ -1,6 +1,6 @@
 ### Hello there, my name is Mikhail 👋
 ---
-- 🌱 I’m currently learning javascript, vue.js
+- 🌱 I’m currently learning more about javascript, vue.js
 - ⚡ Fun fact: Corgi dog owner :dog:
 - 📫 How to reach me: mik.zinchuk@gmail.com
 
