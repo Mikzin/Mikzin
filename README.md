@@ -1,7 +1,7 @@
 ### Hello there, my name is Mikhail 👋
 ---
 - 🌱 I’m currently learning more about javascript, vue.js, typescript
-- - My <a href="https://mikzin.github.io/vue-portfolio/">portfolio</a>.
+- <a href="https://mikzin.github.io/vue-portfolio/">Here</a> is my portfolio.
 - ⚡ Fun fact: Corgi dog owner :dog:
 - 📫 How to reach me: mik.zinchuk@gmail.com
 
